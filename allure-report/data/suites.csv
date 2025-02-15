@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","11767","Validate user is able to view post clicking on New Registartion","","Sat Feb 15 11:16:59 IST 2025","passed","Sat Feb 15 11:17:10 IST 2025","","New User Registration view","Validate user is able to view post clicking on New Registartion",""
+"","9789","Validate general user is able to view without logging in","","Sat Feb 15 11:17:11 IST 2025","passed","Sat Feb 15 11:17:20 IST 2025","","General view","Validate general user is able to view without logging in",""
+"","9869","Validate user is able to view post login","","Sat Feb 15 11:17:20 IST 2025","failed","Sat Feb 15 11:17:30 IST 2025","","Logged in user view","Validate user is able to view post login",""
